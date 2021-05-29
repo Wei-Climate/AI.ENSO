@@ -1,7 +1,5 @@
 # AI.ENSO
-Develop a Deep Learning System for Multi-year ENSO Prediction
-
-Objective: The project aims at developing a deep learning prediction system to improve ENSO prediction with lead times longer than 12 months. 
+Developing a Deep Learning System for Multi-year ENSO Prediction
 
 @author: Dr. Wei Zhang 
 
