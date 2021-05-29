@@ -1,7 +1,7 @@
 # AI.ENSO
 Developing a Deep Learning System for Multi-year ENSO Prediction
 
-@author: Dr. Wei Zhang 
+@author: Dr. Wei Zhang, Postdoc at Princeton University and NOAA GFDL 
 
 @email: wz19@princeton.edu
 
