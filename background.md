@@ -13,7 +13,10 @@ El Niño–Southern Oscillation (ENSO) is an irregular periodic variation (3-7 y
 Figure 1. Diagram of ENSO phases and assoicated dynamics during El Niño, normal, and La Niña conditions. Source: NOAA/PMEL/TAO Project Office, Dr. Michael J. McPhaden, Director. 
 
 
-## What is the Niño index?
+## ENSO index?
+Several indices have been used to determine the phases of ENSO, all of which are calculated based on SST anomalies averaged aross specific regions in the tropical Pacific. The Niño 3.4 (N34) index is one of the most commonly accepted ENSN indices in the climate community. N34 is estimated as the area-averaged-SST anomalies around [5N-5S, 170W-120W], which is the operational definition used by NOAA. 
+
+![Figure 2. Niño index of ENSO ](image/NINOindex.jpg) 
 
 
 
