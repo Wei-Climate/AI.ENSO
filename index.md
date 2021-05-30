@@ -37,8 +37,7 @@ _July 2021_ - Finished data collection and preparation. Collected data included 
 
 ## BLOG
 
-### BLOG#1 - How ENSO influences global and regional climate? 
-*Coming soon...*
+### [BLOG#1 - What you need know about ENSO?](background.md)
 
 ### BLOG#2 - A Summary of ENSO Prediction Skills  
 *Coming soon...*
