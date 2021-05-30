@@ -21,7 +21,7 @@ Several indices have been used to determine the phases of ENSO, all of which are
 Figure 2.  Niño index of ENSO. Source: [NOAA National Centers for Environmental Information](https://www.ncdc.noaa.gov/teleconnections/enso/indicators/sst/). 
 
 ## How ENSO impacts global and regional climate?
-ENSO arises from changes across the tropical Pacific Ocean and affects regional and global climate dependent on warm or cold phases of ENSO events. The figure shows an exmaple of how El Niño impacts global climate during winter seasons. 
+ENSO arises from changes across the tropical Pacific Ocean and affects regional and global climate dependent on warm or cold phases of ENSO events. The figure below shows an exmaple of how El Niño impacts global climate during winter seasons. 
 
 ![Figure 3. Impacts of El Niño on global climate during winter seasons.](image/El_winter.jpg) 
 
