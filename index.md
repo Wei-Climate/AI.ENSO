@@ -1,6 +1,6 @@
-# DIRECTORY2222
+# DIRECTORY
 
-## TEAM MEMBERS ddddd
+## TEAM MEMBERS
 - [Dr. Wei Zhang](https://weizh.weebly.com), Postdoctoral researcher at Department of Geosciences, Princeton University, and NOAA’s Geophysical Fluid Dynamics Laboratory 
 - [Dr. Jia Geng](https://www.linkedin.com/in/jia-geng/), PHD at Rosenstiel School of Marine and Atmospheric Science, University of Miami
 - [Dr. Junfei Xia](https://www.junfeixia.com), PHD at Rosenstiel School of Marine and Atmospheric Science, University of Miami
