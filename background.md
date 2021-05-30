@@ -10,7 +10,6 @@ El Niño–Southern Oscillation (ENSO) is an irregular periodic variation (3-7 y
 
 
 ![Figure 1. Diagram of ENSO phases and assoicated dynamics during El Niño, normal, and La Niña conditions. Source: NOAA/PMEL/TAO Project Office, Dr. Michael J. McPhaden, Director. ](image/What_is_ENSO.png) 
-
 Figure 1. Diagram of ENSO phases and assoicated dynamics during El Niño, normal, and La Niña conditions. Source: NOAA/PMEL/TAO Project Office, Dr. Michael J. McPhaden, Director. 
 
 
